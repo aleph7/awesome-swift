@@ -115,6 +115,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Official Guides
 [back to top](#readme) 
 
+* [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
 * [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for swift beginners.
 
 ### Style Guides
